@@ -1,2 +1,4 @@
 # Testes-Mobile
-Teste em apk Android utilizando framework Maestro/Appium
+Teste interfaces automaticamente de aplicativo no React Native
+- AndroidStudio
+- Framework Maestro(Appium)
